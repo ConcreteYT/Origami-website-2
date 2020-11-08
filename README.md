@@ -1,4 +1,4 @@
-# C50-PROJECT
+# ORIGAMI WEBSITE DESIGN PART 2
 se the ideas of flexbox to improve your skeleton website that you created in the last class.
 You can use ideas like justify-content, flex-wrap and align-items.
 
